@@ -59,6 +59,9 @@ form.home-form {
 }
 
 @media (max-width: 767px) {
+    body .collapse:not(.show) {
+        display: none;
+    }
     .quick-links {
         top:92px;
         width:auto;
@@ -86,7 +89,7 @@ form.home-form {
     }
 
     .quick-links .dropdown-menu .oi {
-        background-color: #d19c02;
+        background-color: #00ab7f;
         padding: 5px;
         border-radius: 50%;
     }
@@ -98,6 +101,10 @@ form.home-form {
         padding-bottom: 0.5rem;
         border-radius: 5px;
         margin-bottom: 8px;
+    }
+
+    .quick-links .dropdown-menu a:hover {
+        background-color: #54c4f1;
     }
 
     .top-info {
