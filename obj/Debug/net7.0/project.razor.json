@@ -9,43 +9,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -313325466,
-        "Kind": "Components.Component",
-        "Name": "Seminole.Pages.ContactUs",
-        "AssemblyName": "Seminole",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ContactUs"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "Seminole.Pages.ContactUs",
-          "Common.TypeNameIdentifier": "ContactUs",
-          "Common.TypeNamespace": "Seminole.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -266394107,
-        "Kind": "Components.Component",
-        "Name": "Seminole.Pages.ContactUs",
-        "AssemblyName": "Seminole",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Seminole.Pages.ContactUs"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "Seminole.Pages.ContactUs",
-          "Common.TypeNameIdentifier": "ContactUs",
-          "Common.TypeNamespace": "Seminole.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": 765764272,
         "Kind": "Components.Component",
         "Name": "Seminole.Pages.Counter",
@@ -151,6 +114,43 @@
         "Metadata": {
           "Common.TypeName": "Seminole.Pages.FetchData",
           "Common.TypeNameIdentifier": "FetchData",
+          "Common.TypeNamespace": "Seminole.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -313325466,
+        "Kind": "Components.Component",
+        "Name": "Seminole.Pages.ContactUs",
+        "AssemblyName": "Seminole",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ContactUs"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Seminole.Pages.ContactUs",
+          "Common.TypeNameIdentifier": "ContactUs",
+          "Common.TypeNamespace": "Seminole.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -266394107,
+        "Kind": "Components.Component",
+        "Name": "Seminole.Pages.ContactUs",
+        "AssemblyName": "Seminole",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Seminole.Pages.ContactUs"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Seminole.Pages.ContactUs",
+          "Common.TypeNameIdentifier": "ContactUs",
           "Common.TypeNamespace": "Seminole.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
@@ -416,6 +416,43 @@
         }
       },
       {
+        "HashCode": 2002940100,
+        "Kind": "Components.Component",
+        "Name": "Seminole.App",
+        "AssemblyName": "Seminole",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Seminole.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "Seminole",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1450849823,
+        "Kind": "Components.Component",
+        "Name": "Seminole.App",
+        "AssemblyName": "Seminole",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Seminole.App"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Seminole.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "Seminole",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": -1042467245,
         "Kind": "Components.Component",
         "Name": "Seminole.Shared.SurveyPrompt",
@@ -613,43 +650,6 @@
           "Common.TypeName": "Seminole.Shared.NavMenu",
           "Common.TypeNameIdentifier": "NavMenu",
           "Common.TypeNamespace": "Seminole.Shared",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 2002940100,
-        "Kind": "Components.Component",
-        "Name": "Seminole.App",
-        "AssemblyName": "Seminole",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "Seminole.App",
-          "Common.TypeNameIdentifier": "App",
-          "Common.TypeNamespace": "Seminole",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1450849823,
-        "Kind": "Components.Component",
-        "Name": "Seminole.App",
-        "AssemblyName": "Seminole",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Seminole.App"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "Seminole.App",
-          "Common.TypeNameIdentifier": "App",
-          "Common.TypeNamespace": "Seminole",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
         }
