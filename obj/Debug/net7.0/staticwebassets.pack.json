@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
-      "Id": "/Users/jeremywood/Projects/Test_Clone_SCPAFL/seminole/obj/Debug/net7.0/build-gz/+XVHH3KC.gz",
+      "Id": "/Users/jeremywood/Projects/Test_Clone_SCPAFL/seminole/obj/Debug/net7.0/build-gz/gdGj0+x0.gz",
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
     },
     {
       "Id": "/Users/jeremywood/Projects/Test_Clone_SCPAFL/seminole/obj/Debug/net7.0/scopedcss/bundle/Seminole.styles.css",
       "PackagePath": "staticwebassets/Seminole.styles.css"
+    },
+    {
+      "Id": "/Users/jeremywood/Projects/Test_Clone_SCPAFL/seminole/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/jeremywood/Projects/Test_Clone_SCPAFL/seminole/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
     },
     {
       "Id": "/Users/jeremywood/Projects/Test_Clone_SCPAFL/seminole/wwwroot/css/Acumin-Variable-Concept.ttf",
